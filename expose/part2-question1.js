@@ -16,3 +16,4 @@ function discountPrices(prices, discount) {
 }
 
 console.log(discountPrices([100, 200, 300], 0.5));
+
